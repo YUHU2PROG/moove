@@ -10,7 +10,7 @@
 /out/
 
 # Ігноруємо файл todo-list.txt
-todo-list.txt
+/todo-list.txt
 
 # Ігноруємо папку .idea
 .idea/
